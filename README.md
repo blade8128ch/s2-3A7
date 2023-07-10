@@ -27,7 +27,7 @@
 4. 安裝完畢後，繼續輸入：
 載入種子資料
    ```bash
-   npm run sedd
+   npm run seed
    ```
 
 啟動網頁
